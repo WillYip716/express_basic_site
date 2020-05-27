@@ -27,9 +27,6 @@ app.use(function(req, res) {
 });
 
 
- /*app.use(function (req, res) {
-  res.status(404).sendFile(path.join(__dirname,'public','404.html'));
-});*/
 
 app.listen(8000, () => {
   console.log('Example app listening on port 8000!')
