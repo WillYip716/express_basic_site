@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/WillYip716/express_basic_site#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
